@@ -3,7 +3,7 @@ package com.mycompany.igu;
 import com.mycompany.igu.igu.PantallaLogin;
 
 /**
- *
+ * Lógica principal del proyecto.
  * @author Alejandro H.
  */
 public class IGU {
