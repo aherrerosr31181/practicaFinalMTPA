@@ -1,6 +1,6 @@
 package com.mycompany.igu;
 
-import com.mycompany.igu.igu.PantallaLogin;
+import com.mycompany.igu.igu.LoginFrame;
 
 /**
  * Lógica principal del proyecto.
@@ -10,8 +10,8 @@ public class IGU {
 
     public static void main(String[] args) 
     {
-        PantallaLogin plog = new PantallaLogin(); //creamos objeto de tipo pantalla (el JFRAME)
-        plog.setVisible(true);                  //hcemos visible la pantalla
-        plog.setLocationRelativeTo(null);       //para que aparezca centrado  
+        LoginFrame lf = new LoginFrame(); //creamos objeto de tipo pantalla (el JFRAME)
+        lf.setVisible(true);                  //hcemos visible la pantalla
+        lf.setLocationRelativeTo(null);       //para que aparezca centrado  
     }
 }

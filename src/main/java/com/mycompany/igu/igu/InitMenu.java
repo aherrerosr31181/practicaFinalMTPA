@@ -8,12 +8,12 @@ package com.mycompany.igu.igu;
  *
  * @author Aleja
  */
-public class Tablero extends javax.swing.JFrame {
+public class InitMenu extends javax.swing.JFrame {
 
     /**
      * Creates new form Tablero
      */
-    public Tablero() {
+    public InitMenu() {
         initComponents();
     }
 
