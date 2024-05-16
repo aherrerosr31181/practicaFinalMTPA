@@ -1,4 +1,4 @@
-package com.mycompany.igu;
+package com.mycompany.igu.logica;
 
 import com.mycompany.igu.igu.LoginFrame;
 
@@ -6,7 +6,7 @@ import com.mycompany.igu.igu.LoginFrame;
  * Lógica principal del proyecto.
  * @author Alejandro H.
  */
-public class IGU {
+public class PracticaMTPA {
 
     public static void main(String[] args) 
     {
