@@ -1,6 +1,6 @@
-package com.mycompany.igu.logica;
+package com.uemc.practicaMTPA.logica;
 
-import com.mycompany.igu.igu.LoginFrame;
+import com.uemc.practicaMTPA.igu.LoginFrame;
 
 /**
  * Lógica principal del proyecto.

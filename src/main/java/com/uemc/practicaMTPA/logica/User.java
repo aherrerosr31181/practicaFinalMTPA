@@ -1,4 +1,4 @@
-package com.mycompany.igu.logica;
+package com.uemc.practicaMTPA.logica;
 import java.util.Dictionary;
 import java.util.Hashtable;
 import java.util.HashMap;

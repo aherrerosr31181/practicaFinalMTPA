@@ -1,8 +1,8 @@
-package com.mycompany.igu.igu;
+package com.uemc.practicaMTPA.igu;
 
 
-import com.mycompany.igu.logica.User;
-import static com.mycompany.igu.logica.User.userDatabase;
+import com.uemc.practicaMTPA.logica.User;
+import static com.uemc.practicaMTPA.logica.User.userDatabase;
 import java.util.Hashtable;
 import javax.swing.JOptionPane;
 
